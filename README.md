@@ -1,2 +1,2 @@
 # mathematical-multiplication-table
-==Mathematical== multiplication table
+== Mathematical == multiplication table
